@@ -1,2 +1,0 @@
-# chulele.github.io
-website
